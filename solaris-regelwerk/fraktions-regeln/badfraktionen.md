@@ -1,3 +1,0 @@
--e # Badfraktionen
-
-Inhalt folgt.

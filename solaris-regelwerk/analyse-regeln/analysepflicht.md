@@ -1,3 +1,0 @@
--e # Analysepflicht
-
-Inhalt folgt.

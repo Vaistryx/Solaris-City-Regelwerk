@@ -1,3 +1,0 @@
--e # Support
-
-Inhalt folgt.

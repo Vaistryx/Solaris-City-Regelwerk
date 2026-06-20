@@ -1,3 +1,0 @@
--e # Raubüberfälle
-
-Inhalt folgt.

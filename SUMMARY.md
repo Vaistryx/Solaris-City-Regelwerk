@@ -1,24 +1,22 @@
-# Solaris City Regelwerk
+# Table of contents
 
 * [Willkommen](README.md)
 
-## Ingame Regeln
+## INGAME REGELN
 
 * [Allgemein](ingame-regeln/allgemein.md)
 * [Roleplay](ingame-regeln/roleplay.md)
-* [Raubüberfälle](ingame-regeln/raubueberfaelle.md)
+* [Raubüberfälle](ingame-regeln/raububerfalle.md)
 * [Support](ingame-regeln/support.md)
 
-## Fraktions Regeln
+## FRAKTIONS REGELN
 
 * [Allgemein](fraktions-regeln/allgemein.md)
 * [Staatsfraktionen](fraktions-regeln/staatsfraktionen.md)
-* [Badfraktionen](fraktions-regeln/badfraktionen.md)
+* [BadFraktionen](fraktions-regeln/badfraktionen.md)
 * [Routen](fraktions-regeln/routen.md)
-* [Gangwar](fraktions-regeln/gangwar.md)
-* [Lootdrop](fraktions-regeln/lootdrop.md)
 
-## Analyse Regeln
+## ANALYSE REGELN
 
 * [Allgemein](analyse-regeln/allgemein.md)
 * [Analysepflicht](analyse-regeln/analysepflicht.md)

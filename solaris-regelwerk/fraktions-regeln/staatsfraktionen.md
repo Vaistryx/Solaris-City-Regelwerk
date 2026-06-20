@@ -1,3 +1,0 @@
--e # Staatsfraktionen
-
-Inhalt folgt.

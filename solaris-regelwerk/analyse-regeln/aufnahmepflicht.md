@@ -1,3 +1,0 @@
--e # Aufnahmepflicht
-
-Inhalt folgt.

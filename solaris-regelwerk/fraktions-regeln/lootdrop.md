@@ -1,3 +1,0 @@
--e # Lootdrop
-
-Inhalt folgt.

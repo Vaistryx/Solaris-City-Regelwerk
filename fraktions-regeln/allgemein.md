@@ -21,8 +21,6 @@ layout:
 
 # Allgemein
 
-<mark style="color:$primary;">FRAKTIONS REGELN</mark>
-
 ### Allgemein
 
 #### § 1 Fraktionsgrundlagen

@@ -21,8 +21,6 @@ layout:
 
 # BadFraktionen
 
-<mark style="color:$primary;">FRAKTIONS REGELN</mark>
-
 ## Badfraktionen
 
 Als Badfraktionen gelten:

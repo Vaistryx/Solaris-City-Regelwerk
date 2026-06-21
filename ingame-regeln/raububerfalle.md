@@ -21,8 +21,6 @@ layout:
 
 # Raubüberfälle
 
-<mark style="color:$primary;">INGAME REGELN</mark>
-
 ## Raubüberfälle
 
 ### § 1 Raubüberfälle

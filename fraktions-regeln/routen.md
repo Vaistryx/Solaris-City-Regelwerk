@@ -21,8 +21,6 @@ layout:
 
 # Routen
 
-<mark style="color:$primary;">FRAKTIONS REGELN</mark>
-
 ## Routen
 
 ### § 1 Routenregelungen

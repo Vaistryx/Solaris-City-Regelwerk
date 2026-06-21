@@ -21,8 +21,6 @@ layout:
 
 # Aufnahmepflicht
 
-<mark style="color:$primary;">ANALYSE REGELN</mark>
-
 ## Aufnahmepflicht
 
 ### § 1 Aufnahme- und Clipregeln

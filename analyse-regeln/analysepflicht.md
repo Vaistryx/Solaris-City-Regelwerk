@@ -21,10 +21,6 @@ layout:
 
 # Analysepflicht
 
-<mark style="color:$primary;">ANALYSE REGELN</mark>
-
-Natürlich! Auch diesen Abschnitt habe ich an den Stil der übrigen Regelwerke angepasst – klar, professionell und rechtlich sauber formuliert.
-
 ## Analysepflicht
 
 ### § 1 Analyseverfahren

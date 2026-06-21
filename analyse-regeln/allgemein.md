@@ -21,8 +21,6 @@ layout:
 
 # Allgemein
 
-<mark style="color:$primary;">ANALYSE REGELN</mark>
-
 ## Anticheat & Sicherheit
 
 ### § 1 Allgemeine Bestimmungen

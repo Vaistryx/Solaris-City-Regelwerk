@@ -21,8 +21,6 @@ layout:
 
 # Roleplay
 
-<mark style="color:$primary;">INGAME REGELN</mark>
-
 ## Roleplay
 
 ### § 1 Lebensregeln

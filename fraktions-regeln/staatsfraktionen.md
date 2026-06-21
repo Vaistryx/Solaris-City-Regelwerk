@@ -21,8 +21,6 @@ layout:
 
 # Staatsfraktionen
 
-<mark style="color:$primary;">FRAKTIONS REGELN</mark>
-
 ## Staatsfraktionen
 
 Als Staatsfraktionen gelten:

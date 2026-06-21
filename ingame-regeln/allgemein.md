@@ -21,8 +21,6 @@ layout:
 
 # Allgemein
 
-<mark style="color:$primary;">INGAME REGELN</mark>
-
 ## Allgemein
 
 Um allen Spielern ein faires und angenehmes Roleplay-Erlebnis zu ermöglichen, müssen vor dem Beitritt auf unseren Server einige grundlegende Voraussetzungen erfüllt werden:

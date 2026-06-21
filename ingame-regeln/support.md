@@ -21,8 +21,6 @@ layout:
 
 # Support
 
-<mark style="color:$primary;">INGAME REGELN</mark>
-
 ## Support
 
 ### § 1 Support-Regeln

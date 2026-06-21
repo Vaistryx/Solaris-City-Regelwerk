@@ -44,7 +44,7 @@ Auf unserem Server gilt das Millionenstadt-Prinzip. Öffentliche Orte wie der W�
 
 Illegale Aktivitäten gehören daher in abgelegene Gebiete. An öffentlichen Orten ist jederzeit mit Zeugen oder Polizeipräsenz zu rechnen. Schwere Straftaten, wie beispielsweise Mord, dürfen ausschließlich an geeigneten Orten und mit entsprechender Maskierung durchgeführt werden.
 
-<div align="left"><figure><img src="../.gitbook/assets/Bild_2026-06-21_185320873.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Bild_2026-06-21_191951952.png" alt=""><figcaption></figcaption></figure></div>
 
 **§ 1.2 RDM (Random Deathmatch)**
 

@@ -47,7 +47,7 @@ Die Regelverstöße der Gegenpartei haben dabei keinen Einfluss auf die Bewertun
 
 #### § 1.3 Übertragungen
 
-Werden Skripte, MLOs, Fahrzeuge oder andere Inhalte auf den Keymaster des Servers übertragen, gehen sämtliche Besitz- und Nutzungsrechte an das Projekt **Senora City** über.
+Werden Skripte, MLOs, Fahrzeuge oder andere Inhalte auf den Keymaster des Servers übertragen, gehen sämtliche Besitz- und Nutzungsrechte an das Projekt **Solaris City** über.
 
 Es handelt sich hierbei nicht um eine Leihgabe, sondern um eine dauerhafte und nicht rückgängig zu machende Übertragung. Eine Rückübertragung ist aufgrund der technischen Einschränkungen von FiveM grundsätzlich nicht möglich.
 
